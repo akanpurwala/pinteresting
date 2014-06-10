@@ -27,6 +27,8 @@ Pinteresting::Application.configure do
   # number of complex assets.
   config.assets.debug = true
 
-# Required for Heroku (Devise)
-config.action_mailer.default_url_options = { :host => 'localhost:3000' }
+  # Required for Heroku (Devise)
+  config.action_mailer.default_url_options = { :host => 'localhost:3000' }
+  
+  Paperclip.options[:command_path] = "c/Program Files/ImageMagick-6.8.9-Q16"
 end
