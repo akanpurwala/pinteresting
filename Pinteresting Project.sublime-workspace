@@ -1,0 +1,187 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"package control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Sites/pinteresting/.gitignore",
+		"/C/Sites/pinteresting/app/views/pins/show.html.erb",
+		"/C/Sites/pinteresting/app/models/user.rb",
+		"/C/Sites/pinteresting/app/views/devise/registrations/new.html.erb",
+		"/C/Sites/pinteresting/app/views/pins/index.html.erb",
+		"/C/Sites/pinteresting/app/models/pin.rb",
+		"/C/Sites/pinteresting/app/controllers/pins_controller.rb",
+		"/C/Sites/pinteresting/Gemfile",
+		"/C/Sites/pinteresting/app/views/devise/registrations/edit.html.erb",
+		"/C/Sites/pinteresting/app/controllers/application_controller.rb",
+		"/C/Sites/pinteresting/app/views/layouts/_header.html.erb",
+		"/C/Sites/pinteresting/app/assets/stylesheets/pins.css.scss",
+		"/C/Sites/pinteresting/app/assets/javascripts/pins.js.coffee",
+		"/C/Sites/pinteresting/app/assets/javascripts/application.js",
+		"/C/Sites/pinteresting/config/routes.rb",
+		"/C/Sites/pinteresting/app/views/pages/_home.html.erb",
+		"/C/Sites/pinteresting/app/assets/stylesheets/bootstrap_and_customization.css.scss",
+		"/C/Sites/pinteresting/app/views/pins/_form.html.erb",
+		"/C/Sites/pinteresting/config/environments/development.rb",
+		"/C/Sites/pinteresting/config/application.rb",
+		"/C/Sites/pinteresting/config/environments/production.rb",
+		"/C/Sites/pinteresting/app/assets/stylesheets/application.css",
+		"/C/Sites/pinteresting/config/initializers/mime_types.rb",
+		"/C/Sites/pinteresting/app/views/pages/team.html.erb",
+		"/C/Sites/pinteresting/app/views/pages/about.html.erb",
+		"/C/Sites/pinteresting/app/views/pages/home.html.erb",
+		"/C/Sites/pinteresting/app/views/layouts/application.html.erb",
+		"/C/Sites/pinteresting/app/views/pins/new.html.erb",
+		"/C/Sites/pinteresting/app/views/pins/edit.html.erb",
+		"/C/Sites/pinteresting/app/views/devise/sessions/new.html.erb",
+		"/C/Sites/pinteresting/app/views/devise/passwords/new.html.erb",
+		"/C/Sites/pinteresting/app/views/devise/passwords/edit.html.erb",
+		"/C/Sites/pinteresting/app/views/devise/unlocks/new.html.erb",
+		"/C/Sites/pinteresting/app/controllers/pages_controller.rb",
+		"/C/Sites/pinteresting/app/assets/stylesheets/pages.css.scss",
+		"/C/Users/Amir/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Sites/pinteresting/README.md",
+		"/C/Users/Amir/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Amir/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"email\n",
+			"%>\n",
+			"name",
+			"validates_attachment_content_type"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true
+}
